@@ -14,7 +14,7 @@ for(let i=0;i<temp.length;i++){
 
 }
 if(flag != 1){
-  return "" 
+  return null 
 }
 }
 const input = prompt("Enter a string");
